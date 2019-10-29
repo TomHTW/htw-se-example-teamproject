@@ -1,12 +1,9 @@
 = Teamdokumentation
-<<<<<<< HEAD
 Tom Jandke s77831@htw-dresden.de
 0.1, 01.09.2019
-=======
 Vorname Nachname <email>
 Lukas Grambole s77815@htw-dresden.de
 0.1, 29.10.2019
->>>>>>> b6f8c4cb2aef406407760357fa2b23b9bde9dd8a
 :toc:
 :toc-title: Inhaltsverzeichnis
 // Platzhalter für weitere Dokumenten-Attribute
@@ -14,9 +11,7 @@ Lukas Grambole s77815@htw-dresden.de
 == Einführung
 Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben von AsciiDoc und Teamarbeit.
 
-<<<<<<< HEAD
 include::Teammitglieder.adoc[]
-=======
 .Rollenverteilung
 |===
 |Tom Jandke |Lukas Grambole |alle
@@ -29,4 +24,3 @@ include::Teammitglieder.adoc[]
 |Person C
 
 |===
->>>>>>> b6f8c4cb2aef406407760357fa2b23b9bde9dd8a
