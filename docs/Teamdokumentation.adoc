@@ -8,3 +8,16 @@ Lukas Grambole s77815@htw-dresden.de
 
 == Einführung
 Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben von AsciiDoc und Teamarbeit.
+
+.Rollenverteilung
+|===
+|Tom Jandke |Lukas Grambole |alle
+
+|Person A
+
+
+|Person B
+
+|Person C
+
+|===
