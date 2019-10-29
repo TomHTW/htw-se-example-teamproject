@@ -1,6 +1,7 @@
 = Teamdokumentation
 Vorname Nachname <email>
-0.1, 01.09.2019
+Lukas Grambole s77815@htw-dresden.de
+0.1, 29.10.2019
 :toc:
 :toc-title: Inhaltsverzeichnis
 // Platzhalter für weitere Dokumenten-Attribute
